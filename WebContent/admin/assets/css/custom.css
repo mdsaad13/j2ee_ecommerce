@@ -1,0 +1,23 @@
+.navbar-vertical.navbar-expand-xs .navbar-nav>.nav-item>.nav-link.active {
+    margin-left: 0;
+    margin-right: .5rem;
+    padding-right: 2rem;
+    padding-left: 1rem;
+    background: #d9eafa;
+    font-weight: bold;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.navbar-vertical.navbar-expand-xs .navbar-nav .nav-link {
+    padding-left: 1rem;
+}
+
+.navbar-vertical .navbar-nav .nav-link>i {
+    font-weight: bold;
+}
+
+.card {
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
